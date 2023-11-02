@@ -7,3 +7,5 @@ Repositório para o projeto da matéria Tecnologia para Front-end.
   - Gabriel Brandão.
   - Vinicius Silas.
   - Rayan Dias.
+* Professor:
+  - Ângelo Dias.
