@@ -1,2 +1,9 @@
 # Projeto-Tecnologia-FrontEnd
-Repositório para a matéria de Tecnologia de Front-End
+Repositório para o projeto da matéria Tecnologia para Front-end.
+* Integrantes:
+  - Lucas Viana.
+  - Nicollas Garibaldi.
+  - João Gabriel.
+  - Gabriel Brandão.
+  - Vinicius Silas.
+  - Rayan Dias.
