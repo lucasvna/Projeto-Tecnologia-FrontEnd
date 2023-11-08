@@ -1,4 +1,4 @@
-# Projeto-Tecnologia-FrontEnd
+# Projeto-Tecnologia-FrontEnd -- Pokeédex
 Repositório para o projeto da matéria Tecnologia para Front-end.
 * Integrantes:
   - Lucas Viana.
