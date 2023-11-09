@@ -80,4 +80,4 @@ Incineroar : https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/po
 
 Popplio: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/728.png
 Brionne: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/729.png
-Primarina:  
+Primarina: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/730.png
