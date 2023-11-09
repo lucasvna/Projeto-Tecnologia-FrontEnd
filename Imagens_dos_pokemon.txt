@@ -1,6 +1,6 @@
 Bulbasaur: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png
 Ivysaur: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png
-Venusaur: https://pokeapi.co/api/v2/pokemon/venusaur
+Venusaur: https://pokeapi.co/api/v2/pokemon/venusaur/pokemon/3.png
 
 Charmander: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png
 Charmeleon: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png
@@ -12,7 +12,7 @@ Blastoise: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/poke
 
 Chikorita: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/152.png
 Bayleef: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/153.png
-Meganium: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/154  .png
+Meganium: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/154.png
 
 Cyndaquil: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/155.png
 Quilava: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/156.png
