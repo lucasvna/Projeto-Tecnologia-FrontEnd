@@ -1,0 +1,83 @@
+Bulbasaur: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png
+Ivysaur: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png
+Venusaur: https://pokeapi.co/api/v2/pokemon/venusaur
+
+Charmander: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png
+Charmeleon: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png
+Charizard: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png
+
+Squirtle: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png
+Wartotle: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png
+Blastoise: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png
+
+Chikorita: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/152.png
+Bayleef: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/153.png
+Meganium: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/154  .png
+
+Cyndaquil: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/155.png
+Quilava: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/156.png
+Typlosion: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/157.png
+
+Totodile: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/158.png
+Croconaw: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/159.png
+Feraligatr: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/160.png
+
+Treecko: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/252.png
+Grovyle: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/253.png
+Sceptitle: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/254.png
+
+Torchic: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/255.png
+Combusken: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/256.png
+Blaziken: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/257.png
+
+Mudkip: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/258.png
+Mashtomp: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/259.png
+Swampert: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/260.png
+
+Turtwig:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/387.png
+Grotle:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/388.png
+Torterra: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/389.png
+
+Chimchar: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/390.png
+Monferno: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/391.png
+Infernape: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/392.png
+
+Piplup: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/393.png
+Prinplup: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/394.png
+Empoleon: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/395.png
+
+Snivy: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/495.png
+Servine: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/496.png     
+Serperior: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/497.png
+
+Tepig: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/498.png
+Pignite : https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/499.png
+Emboar: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/500.png
+
+Oshawott: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/501.png
+Dewott: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/502.png
+Samurott: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/503.png
+
+Chespin: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/650.png
+Quilladin: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/651.png
+Chesnaught: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/652.png
+
+Fennekin: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/653.png
+Braixen: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/654.png 
+Delphox: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/655.png
+
+Froakie: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/656.png
+Frogadier:https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/657.png   
+Greninja: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/658.png
+
+Rowlet : https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/722.png
+Dartrix : https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/723.png
+Decidueye: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/724.png
+
+Litten : https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/725.png
+Torracat : https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/726.png
+Incineroar : https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/727.png
+
+Popplio: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/728.png
+Brionne: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/729.png
+Primarina:  
