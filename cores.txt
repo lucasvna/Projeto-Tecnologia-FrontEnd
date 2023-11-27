@@ -8,4 +8,3 @@ eletrico: #E8DD09
 ground: #CD9B47
 fairy: #764ABA
 rock: #B8C7CE
-

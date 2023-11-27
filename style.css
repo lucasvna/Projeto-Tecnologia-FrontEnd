@@ -1,23 +1,62 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
 
-
 * {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
   font-family: 'Lato', sans-serif;
-}
-
-body {
-  background:rgb(102, 96, 96);
-  display: flex;
-  flex-direction: column;
   align-items: center;
   justify-content: center;
 }
 
+/* body {
+  background:rgb(255, 255, 255);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+} */
+
 h1 {
   letter-spacing: 4px;
+}
+
+a {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+}
+
+.header {
+  background: #FB6C6A;
+  padding-inline: 16px;
+}
+
+.nav {
+  max-width: 1280px;
+  height: 70px;
+  margin-inline: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.lista-nav {
+  display: flex;
+  gap: 32px;
+  list-style: none;
+}
+
+.lista-nav a {
+  font-size: 18px;
+  padding-block: 16px;
+  color: #fff;
+}
+
+.nav-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .pokeContainer {
@@ -52,13 +91,14 @@ h1 {
   max-width: 90%;
 }
 
-.logoPokemon {
-  display: flex;
-  justify-content: center;
-  width: 70px;
-  height: 70px;
-  margin-top: 20px;
-  margin-bottom: 20px;
+
+.pokedex-logo{
+  position: absolute;
+  height: auto;
+  top: 10px;
+  width: 128px;
+  left: 10px;
+  
 }
 
 .info {
