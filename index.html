@@ -1,27 +1,47 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Pokedex</title>
   <link rel="stylesheet" href="style.css">
+  <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
 </head>
   <body>
-      <header class="header">
-        <div class="imagemPokedex">
-          <img src="./assets/pokedexlogo.svg" class="pokedex-logo" alt="Logo pokemon">
-        </div>
-        <div class="nav-center">
-          <nav class="nav">
-            <ul class="lista-nav">
-              <li><a href="/index.html">Pokedex</a></li>
-              <li><a href="/pokemon.html">Pokemon</a></li>
-              <li><a href="/equipe.html">Equipe</a></li>
-          </ul>
-        </nav>
+    <!-- Barra de navegação -->    
+    <nav>
+      <div class="logo">
+        <a href="#"><img src="./assets/pokedexlogo.png" alt="logo pokedex"></a>
       </div>
-      </header>
+      <div class="toggle">
+        <a href="#"><ion-icon name="menu-outline"></ion-icon></a>
+      </div>
+      <ul class="menu">
+        <li><a href="/index.html">Pokedex</a></li>
+        <li><a href="/pokemon.html">Tipos de pokemon</a></li>
+        <li><a href="/equipe.html">Sobre</a></li>
+      </ul>
+    </nav>
+    <!-- Barra de navegação -->    
+    
+    <!-- Conteúdo da pokedex -->
       <div class="pokeContainer" id="pokeContainer"></div>
+    
+      <!-- Script abaixo para a função de menu responsivo -->      
       <script src="script.js"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+      <script>
+        $(function() {
+          $(".toggle").on("click", function(){
+            if($(".menu").hasClass("active")){
+              $(".menu").removeClass("active");
+              $(this).find("a").html("<ion-icon name='menu-outline'></ion-icon>");
+            } else{
+              $(".menu").addClass("active");
+              $(this).find("a").html("<ion-icon name='close-outline'></ion-icon>");
+            }
+          });
+        });
+      </script>
   </body>
 </html>
