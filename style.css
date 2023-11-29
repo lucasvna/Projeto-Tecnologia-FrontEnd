@@ -142,3 +142,80 @@ nav a:hover {
   margin-top: 20px;
   margin-bottom: 20px;
 }
+
+/*  Classe da pagina SOBRE */
+.ctn-pai{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: baseline;
+  flex-wrap: wrap;
+  border-radius: 10px;
+  margin: 30px ;
+  height: 90vh;
+  width: 200vh;
+  background: #FB6C6A;
+}
+
+
+.item{
+  height: 250px;
+  width: 300px;
+  margin: 10px;
+  /* margin-top: 30px;
+  margin-left: 20px; */
+  color: #fff;
+  background: rgba(255, 255, 255, 0.9);
+  border-radius: 10px;
+}
+
+
+
+.titulo-h3{
+  text-align: center;
+}
+
+
+.imagem-form{
+  
+  height: 110px;
+  width: 110px;
+  margin: 25px 40px 10px 100px;
+  border-radius: 60px;
+} 
+
+
+div a{
+  text-decoration: none;
+  text-align: center;
+}
+
+p{
+
+
+  text-align: center;
+  text-decoration: underline; 
+  color: black;
+  margin-bottom: 0px;
+}
+
+.link-class{
+  color: #000000;
+  margin-left: 110px;
+  margin-top: 25px;
+  
+}
+
+
+
+div a:hover{
+  color: #FB6C6A;
+  margin-left: 140px;
+}
+
+div a::before{
+  color: b#FB6C6A;
+  margin-left: 40px;
+}
+
+
