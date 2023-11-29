@@ -1,6 +1,6 @@
 # Projeto-Tecnologia-FrontEnd - Pokédex
 Aqui está o repositório do nosso projeto da matéria de Tecnologia para Front-end
-[![Nosso Projeto]](https://projeto-pokedex-frontend.vercel.app/)
+[Nosso Projeto](https://projeto-pokedex-frontend.vercel.app/)
 * Professor:
   - Ângelo Dias.
 * Integrantes:
