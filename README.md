@@ -1,5 +1,6 @@
 # Projeto-Tecnologia-FrontEnd - Pokédex
 Aqui está o repositório do nosso projeto da matéria de Tecnologia para Front-end
+[![Nosso Projeto]](https://projeto-pokedex-frontend.vercel.app/)
 * Professor:
   - Ângelo Dias.
 * Integrantes:
@@ -19,10 +20,3 @@ Aqui está o repositório do nosso projeto da matéria de Tecnologia para Front-
 
 # API utilizada:
 [![Pokedex](https://user-images.githubusercontent.com/24237865/83422649-d1b1d980-a464-11ea-8c91-a24fdf89cd6b.png)](https://pokeapi.co/)
-
-
-
-Vinicius Silas
-
-GitHub: https://github.com/ViniciusSilas01
-LinkedIn: https://www.linkedin.com/in/vinicius-silas-2260162a2/ 
