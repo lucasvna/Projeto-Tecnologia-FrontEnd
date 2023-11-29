@@ -18,7 +18,6 @@
       </div>
       <ul class="menu">
         <li><a href="/index.html">Pokedex</a></li>
-        <li><a href="/pokemon.html">Tipos de pokemon</a></li>
         <li><a href="/equipe.html">Sobre</a></li>
       </ul>
     </nav>
@@ -27,21 +26,11 @@
     <!-- Conteúdo da pokedex -->
       <div class="pokeContainer" id="pokeContainer"></div>
     
-      <!-- Script abaixo para a função de menu responsivo -->      
+     <!-- API pokedex -->
       <script src="script.js"></script>
+
+    <!-- função de menu responsivo -->
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
-      <script>
-        $(function() {
-          $(".toggle").on("click", function(){
-            if($(".menu").hasClass("active")){
-              $(".menu").removeClass("active");
-              $(this).find("a").html("<ion-icon name='menu-outline'></ion-icon>");
-            } else{
-              $(".menu").addClass("active");
-              $(this).find("a").html("<ion-icon name='close-outline'></ion-icon>");
-            }
-          });
-        });
-      </script>
+      <script src="responsive.js"></script>
   </body>
 </html>

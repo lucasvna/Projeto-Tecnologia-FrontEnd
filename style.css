@@ -86,6 +86,7 @@ nav a:hover {
   }
 }
 
+/* Estilização da pokedex */
 .pokeContainer {
   display: flex;
   flex-wrap: wrap;
@@ -95,7 +96,6 @@ nav a:hover {
   max-width: 1200px;
 }
 
-/* Estilização da pokedex */
 .pokemon {
   background-color: #66C821;
   border-radius: 10px;
@@ -121,7 +121,6 @@ nav a:hover {
 
 .info {
   margin-top: 20px;
-
 }
 
 .number {
@@ -159,17 +158,14 @@ nav a:hover {
 
 
 .item{
+  display: block;
   height: 250px;
   width: 300px;
   margin: 10px;
-  /* margin-top: 30px;
-  margin-left: 20px; */
   color: #fff;
   background: rgba(255, 255, 255, 0.9);
   border-radius: 10px;
 }
-
-
 
 .titulo-h3{
   text-align: center;
@@ -177,7 +173,6 @@ nav a:hover {
 
 
 .imagem-form{
-  
   height: 110px;
   width: 110px;
   margin: 25px 40px 10px 100px;
@@ -190,9 +185,7 @@ div a{
   text-align: center;
 }
 
-p{
-
-
+p {
   text-align: center;
   text-decoration: underline; 
   color: black;
@@ -203,19 +196,16 @@ p{
   color: #000000;
   margin-left: 110px;
   margin-top: 25px;
-  
 }
 
 
-
-div a:hover{
+.link-class:hover {
   color: #FB6C6A;
-  margin-left: 140px;
+  margin-left: 110px;
+  margin-top: 25px;
 }
 
-div a::before{
-  color: b#FB6C6A;
-  margin-left: 40px;
+.titulo {
+  padding-top: 20px;
+  text-align: center;
 }
-
-
